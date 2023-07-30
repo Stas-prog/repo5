@@ -1,0 +1,47 @@
+.section {
+    display: flex;
+    gap: 20px;
+    font-size: 26px;
+    justify-items: center;
+
+
+}
+
+.button-1,
+.button-2,
+.button-3 {
+    background: #07a053;
+    color: blue;
+    border: solid;
+    border-color: aqua;
+    border-radius: 10px;
+}
+
+.out-1,
+.out-2,
+.out-3 {
+    border-radius: 10px;
+    color: rgb(202, 11, 11);
+    background: #d3e910;
+    border-color: #6307a0;
+    border: solid;
+}
+
+div {
+    background: #c59907;
+}
+
+.out {
+    width: 40px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(140, 218, 15);
+    text-align: center;
+    line-height: 35px;
+    background: #4b06a5;
+    margin: 20px;
+
+}
