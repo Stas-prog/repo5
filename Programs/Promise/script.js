@@ -23,4 +23,4 @@ function getPostsById(id) {
     })
 }
 
-getPostsById(1).then(data => console.log(data))
+getPostsById(2).then(data => console.log(data))
