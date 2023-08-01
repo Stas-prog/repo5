@@ -10,8 +10,6 @@ body {
     width: 500px;
     height: 300px;
     background: #62aecc;
-    flex-direction: row;
-    /* gap: 25px; */
     margin: 50px auto;
 }
 
